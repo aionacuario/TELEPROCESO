@@ -1,0 +1,27 @@
+.imagen2, .imagen1{	position: absolute;	top:10px;}
+.imagen1{		left:200px;}
+.imagen2{		left:1000px;}
+.imagen1 img,.imagen2 img{	width: 130px;	height: 130px;}
+.imput{	position: absolute;	margin: 59px 0 0 140px; top:90px;}
+.fila1, .fila{	position: absolute;margin: 89px 0 0 0;}
+.fila{	margin-left: 350px;}
+.fila1{	margin-left: 800px;}
+.btn-morado{background:rgba(61,7,73,.8); font-weight: 200;color:white;}
+.fila .btn,.fila1 .btn{	width: 200px;	padding:18px 0;	margin-bottom: 5px;	border-radius: 0;}
+.cajaanimada{width: 84px;height: 50px;position: absolute;margin-top:90px;left:230px;  opacity:0;  background:#4EA64E;}
+.cajaanimada p{	font-weight: bold;color:#fffffa;font-size: 20px;margin: 12px;}
+.segmento1,.segmento2,.segmento3,.numeroSecuencia,.puertoOrigen,.puertoDestino,.ipOrigen,.ipDestino,.macOrigen,.macDestino,.trailer
+{position: absolute;width: 50px;height: 50px;	margin: 282px 0 0 275px;opacity: 0}
+.hola1{	color:#fffffa;font-weight: bold;font-size: 14px;margin:14px 0 0 5px;}
+.numeroSecuencia,.puertoOrigen,.puertoDestino{background: rgba(239,166,63,.7) ;}
+.ipOrigen,.ipDestino{ margin: 346px 0 0 227px;background: rgba(186,42,182,.7)}
+.segmento1,.segmento2,.segmento3{z-index:9999;background: #ED9D2A}
+.macOrigen,.macDestino,.trailer{margin: 410px 0 0 227px;background: rgba(47,113,171,.7);}
+.numerosBinarios{position: absolute;margin: 480px 0 0 190px;opacity: 0}
+.numerosBinarios p{font-weight: bold;font-size: 20px;color:#CA3C38;}
+.hola2{margin: 5px;color:#fffffa;}
+.lineas{position: absolute;background: #CA3C38;}
+.linea1{margin:520px 0 0 450px;width:4px;height: 60px}
+.linea2{margin:520px 0 0 900px;width:4px;height: 60px}
+.linea3{margin:580px 0 0 450px;width:454px;height: 4px}
+.imput1{margin: 40px 0 0 970px}
